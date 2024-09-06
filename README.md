@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunchan)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/ieunchan))
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunchan)]([https://github.com/ieunchan/github-readme-stats)
 <!--
 **ieunchan/ieunchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
