@@ -1,4 +1,4 @@
-# 안녕하세요 백엔드 공부하고 있는 이은찬입니다.
+# 안녕하세요 이은찬입니다.
 ## 🌟 ieunchan's GitHub Stats 🌟
 
 <div align="center">
