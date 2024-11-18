@@ -1,8 +1,6 @@
-# Welcome to ieunchan's GitHub! 👋
+# 안녕하세요 백엔드 공부하고 있는 이은찬입니다.
 
 ---
-
-![Wave](https://raw.githubusercontent.com/ieunchan/ieunchan/main/assets/wave.svg)
 
 ---
 
