@@ -1,4 +1,3 @@
-# 안녕하세요 이은찬입니다.
 ## 🌟 ieunchan's GitHub Stats 🌟
 
 <div align="center">
