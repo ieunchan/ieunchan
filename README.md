@@ -1,8 +1,8 @@
 ## 🌟 ieunchan's GitHub Stats 🌟
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ieunchan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ieunchan&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ieunchan&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ieunchan&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact" alt="Top Languages" width="400" height="200" />
 </div>
 
 ---
