@@ -1,13 +1,6 @@
 ## ieunchan's GitHub Stats 
 
-<img src="https://github-readme-stats.vercel.app/api
-?username=ieunchan
-&show_icons=true
-&include_all_commits=true
-&count_private=true
-&hide_border=true" />
-
-https://github-readme-stats.vercel.app/api?username=ieunchan
+[![ieunchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ieunchan&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/ieunchan)
 ---
 
 <!--
