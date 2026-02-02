@@ -1,4 +1,4 @@
-## 🌟 ieunchan's GitHub Stats 🌟
+## ieunchan's GitHub Stats 
 
 <img src="https://github-readme-stats.vercel.app/api
 ?username=ieunchan
@@ -7,6 +7,7 @@
 &count_private=true
 &hide_border=true" />
 
+https://github-readme-stats.vercel.app/api?username=ieunchan
 ---
 
 <!--
