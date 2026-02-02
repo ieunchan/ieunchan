@@ -1,6 +1,6 @@
 ## ieunchan's GitHub Stats 
 
-[![ieunchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ieunchan&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/ieunchan)
+[![ieunchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ieunchan&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800)](https://github.com/ieunchan)
 ---
 
 <!--
