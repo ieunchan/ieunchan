@@ -1,3 +1,5 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ieunchan&show_icons=true&hide_border=true&theme=tokyonight" />
-</div>
+**Tech Stack**
+- Backend: Python, FastAPI, Django
+- Data: Pandas, SQL, PostgreSQL
+- Cloud / Infra: Docker, Linux, AWS (EC2, S3)
+- Etc: Git, GitHub Actions
