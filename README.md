@@ -1,9 +1,8 @@
-### 🧩 Tech Stack
+### Tech Stack
 
-**Backend**  
-<img src="https://cdn.simpleicons.org/python" height="20"/> <img src="https://cdn.simpleicons.org/fastapi" height="20"/> <img src="https://cdn.simpleicons.org/django" height="20"/>  
-Python, FastAPI, Django
-
-**Data**  
-<img src="https://cdn.simpleicons.org/pandas" height="20"/> <img src="https://cdn.simpleicons.org/postgresql" height="20"/>  
-Pandas, SQL, PostgreSQL
+| Category        | Technologies (Hands-on) |
+|-----------------|-------------------------|
+| Backend         | Python, FastAPI, Django |
+| Data            | Pandas, SQL, PostgreSQL |
+| Cloud / Infra   | Docker, Linux, AWS (EC2, S3) |
+| Etc             | Git, GitHub Actions |
